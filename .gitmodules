@@ -1,3 +1,7 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/p4elkab35t/salyte_backend.git
+
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/p4elkab35t/salyte_frontend.git
